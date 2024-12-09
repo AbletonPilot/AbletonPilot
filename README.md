@@ -49,9 +49,9 @@
 <br>
 
 <h3 align="center">🏆 Stat 🏆</h3>
-<div align="center">
+
+<br>
   [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot)](https://github.com/AbletonPilot/github-readme-stats)
-</div>
 
 <br>
 
