@@ -70,7 +70,7 @@
   </a>
   <a href="https://instagram.com/japantokoreaok">
     <img
-      src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&link=https://instagram.com/japantokoreaok/"/>&nbsp
+      src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
 </div>
 
