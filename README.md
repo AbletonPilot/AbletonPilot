@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  HI, I'm Logan 👨‍💻
+  Hi, I'm Logan 👨‍💻
 </div>
 
 <!--내용 부분-->
@@ -49,9 +49,15 @@
 <br>
 
 <h3 align="center">🏆 Stat 🏆</h3>
+<div align="center">
+  [![AbletonPilot's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AbletonPilot/github-readme-stats#gh-dark-mode-only)
+[![AbletonPilot's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AbletonPilot/github-readme-stats#gh-light-mode-only)
 
-<br>
-  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot)](https://github.com/AbletonPilot/github-readme-stats)
+  <br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbletonPilot&layout=compact&theme=dracula)
+  
+  </div>
 
 <br>
 
