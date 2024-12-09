@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=ffd35b" />&nbsp
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
 </div>
