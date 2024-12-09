@@ -64,11 +64,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:sonjm0428@gmail.com", target="_blank">
+  <a href="mailto:sonjm0428@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/sonjm0428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://instagram.com/japantokoreaok", target="_blank">
+  <a href="https://instagram.com/japantokoreaok" target="_blank">
     <img
       src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
