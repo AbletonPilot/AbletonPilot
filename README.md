@@ -50,7 +50,7 @@
 
 <h3 align="center">🏆 Stat 🏆</h3>
 <div align="center">
-  ![AbletonPilot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=dracula)
   
 <br>
 
