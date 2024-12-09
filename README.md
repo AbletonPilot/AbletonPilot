@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  HI, I'm Logan
+  HI, I'm Logan 👨‍💻
 </div>
 
 <!--내용 부분-->
@@ -48,9 +48,9 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">🏆 Stat 🏆</h3>
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=radical)
+  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot)](https://github.com/AbletonPilot/github-readme-stats)
 </div>
 
 <br>
