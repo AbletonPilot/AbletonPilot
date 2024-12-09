@@ -68,6 +68,9 @@
     <img
       src="https://img.shields.io/badge/sonjm0428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  
+<br>
+
   <a href="https://instagram.com/japantokoreaok" target="_blank">
     <img
       src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
