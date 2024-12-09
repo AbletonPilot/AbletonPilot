@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  Hi, I'm Logan 👨‍💻
+  ![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${Hi, I'm Logan 👨‍💻}&fontSize=${50}&animation=${twinkling})
 </div>
 
 <!--내용 부분-->
@@ -49,13 +49,18 @@
 <br>
 
 <h3 align="center">🏆 Stat 🏆</h3>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbletonPilot&show_icons=true&theme=dracula)
-  
-<br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbletonPilot&layout=compact&theme=dracula)
-  </div>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/${AbletonPilot}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${AbletonPilot}&layout=compact&show_icons=${true}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/${AbletonPilot}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${AbletonPilot}&show_icons=${true}&theme=${nord}" />
+  </a>
+</p>
 
 <br>
 
