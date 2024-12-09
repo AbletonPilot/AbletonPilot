@@ -2,9 +2,6 @@
 
 <!--타이틀 부분-->
 <h3 align="center">🙋‍♂ ️About Me 🙋‍♂️️</h3>
-
-<br>
-
 <div align="center">
   Hi, I'm Logan 👨‍💻
 </div>
@@ -50,7 +47,6 @@
 
 <br>
 
-<h3 align="center">🏆 Stat 🏆</h3>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
