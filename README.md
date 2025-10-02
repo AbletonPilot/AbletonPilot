@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!--타이틀 부분-->
 <h3 align="center">About Me</h3>
 
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -64,13 +62,6 @@
   <a href="mailto:sonjm0428@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-<br>
-
-  <a href="https://instagram.com/japantokoreaok" target="_blank">
-    <img
-      src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
